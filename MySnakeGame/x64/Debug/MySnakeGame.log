@@ -1,0 +1,4 @@
+﻿  UI.cpp
+C:\Users\Mustafa\source\repos\sfml_new\projects\Project1\MySnakeGame\UI.cpp(34,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mustafa\source\repos\sfml_new\projects\Project1\MySnakeGame\UI.cpp(34,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  MySnakeGame.vcxproj -> C:\Users\Mustafa\source\repos\sfml_new\bin\MySnakeGame.exe
